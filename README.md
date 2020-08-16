@@ -9,8 +9,7 @@ npm install --save @kyounghwan/verification-input
 ```
 
 ```bash
-yarn add @kyounghwan/verification
--input
+yarn add @kyounghwan/verification-input
 ```
 
 ## Usage
