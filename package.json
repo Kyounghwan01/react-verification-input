@@ -1,8 +1,27 @@
 {
   "name": "@kyounghwan/verification-input",
   "version": "0.0.9",
+  "description": "Input component to put verification code Component",
   "module": "dist/index.js",
   "main": "dist/index.js",
+  "keywords": [
+    "design",
+    "react",
+    "react-component",
+    "component",
+    "components",
+    "ui",
+    "frontend",
+    "mobile",
+    "input",
+    "verification-input",
+    "verification"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kyounghwan01/react-verification-input"
+  },
+  "license": "MIT",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",

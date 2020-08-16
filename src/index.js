@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { VerficationInput } from "./lib/VerficationInput";
+import App from "./App";
 
-ReactDOM.render(<VerficationInput />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
