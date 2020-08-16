@@ -2,6 +2,10 @@
 
 A verification code input
 
+## DEMO
+
+https://react-verification-input.netlify.app/
+
 ## Install
 
 ```bash
